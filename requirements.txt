@@ -1,22 +1,5 @@
-# Core Data Science & Pipeline
-numpy>=1.22.0
-pandas>=1.4.0
-scikit-learn>=1.0.0
-lightgbm>=3.3.0
-joblib>=1.1.0
-
-# Deep Learning Framework
-tensorflow>=2.10.0
-
-# Natural Language Processing (NLP)
-nltk>=3.7
-regex
-
-# Web Interface
-streamlit>=1.12.0
-
-# Code Quality (Optional for production tracking)
-black>=22.3.0
-flake8>=4.0.1
-
-
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
